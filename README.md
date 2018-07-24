@@ -1,4 +1,4 @@
-# Machine Learning / Variable selection method
+# Machine Learning / Variable Selection Method
 
 Purpose:
 Purpose of this project is to create a module with methods/functions which can be used in statsmodel to select the variable in model building process.
