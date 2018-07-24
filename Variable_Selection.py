@@ -1,9 +1,9 @@
                          # Backward_Elimination #
-# Backward elimination is one of the variable selection method used to choose # the most significant variable
+# Backward elimination is one of the variable selection method used to choose the most significant variable and build the final model
                      
                        # Function inputs or arguments
 
-# First parameter - result of full model # Example result = model.fit() 
+# First parameter - result # Example result = model.fit() # full model 
 # Second paramter - threshold # Alpha value like 0.1,0.05 etc
 # train_x # DataFrame with only predictor variables
 # train_y # DataFrame with only independent variables
